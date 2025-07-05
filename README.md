@@ -86,6 +86,12 @@ pip install -r requirements.txt
 - torchvision
 - transformers
 - pandas, numpy, scikit-learn
+- torch>=2.0
+- torchvision>=0.15
+- transformers>=4.30
+- scikit-learn
+- numpy
+- matplotlib
 
 ---
 
