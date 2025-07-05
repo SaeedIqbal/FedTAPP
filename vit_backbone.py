@@ -1,4 +1,3 @@
-# vit_backbone.py
 import torch
 from torchvision import models
 
